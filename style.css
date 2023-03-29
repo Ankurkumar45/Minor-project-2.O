@@ -1,0 +1,17 @@
+.nav-bar{
+    background-color: yellow;
+}
+.anc{
+    border-left-width: 2px;
+    border-left-color: black;
+    text-decoration: none;
+    margin:30px 30px;
+    font-size: 50px;
+}
+.anc:hover{
+    background-color: aqua;
+    color: black;
+}
+body{
+    background-color: aquamarine;
+}
